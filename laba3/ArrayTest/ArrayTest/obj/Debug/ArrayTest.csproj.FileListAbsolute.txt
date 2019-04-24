@@ -1,0 +1,7 @@
+D:\6 семестр\Васильев\laba3\ArrayTest\ArrayTest\bin\Debug\ArrayTest.exe.config
+D:\6 семестр\Васильев\laba3\ArrayTest\ArrayTest\bin\Debug\ArrayTest.exe
+D:\6 семестр\Васильев\laba3\ArrayTest\ArrayTest\bin\Debug\ArrayTest.pdb
+D:\6 семестр\Васильев\laba3\ArrayTest\ArrayTest\obj\Debug\ArrayTest.csprojAssemblyReference.cache
+D:\6 семестр\Васильев\laba3\ArrayTest\ArrayTest\obj\Debug\ArrayTest.csproj.CoreCompileInputs.cache
+D:\6 семестр\Васильев\laba3\ArrayTest\ArrayTest\obj\Debug\ArrayTest.exe
+D:\6 семестр\Васильев\laba3\ArrayTest\ArrayTest\obj\Debug\ArrayTest.pdb
